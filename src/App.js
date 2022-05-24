@@ -11,7 +11,7 @@ function App() {
     <main>
     <div className="search-box">
     <input type = "text"
-    className = "seach-bar"
+    className = "search-bar"
     placeholder = "Search..."
     />
     </div> 
